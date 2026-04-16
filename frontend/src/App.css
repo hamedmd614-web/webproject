@@ -1,0 +1,18 @@
+#root {
+  max-width: 1400px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: #000;
+  color: #fff;
+}
+
+/* optional polish */
+.card {
+  padding: 2em;
+  background-color: #111;
+  border-radius: 12px;
+}
+
+.read-the-docs {
+  color: #aaa;
+}
